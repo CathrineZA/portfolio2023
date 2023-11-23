@@ -45,6 +45,12 @@ header a {
   padding: 16px 32px;
   margin-top: 32px;
   display: inline-block;
+  border-radius: 5px;
+}
+
+header a:hover {
+  color: white;
+  background-color: grey;
 }
 
 .btn {
