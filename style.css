@@ -32,6 +32,11 @@ header h3 {
   margin: 0;
 }
 
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
 header a {
   font-weight: 700;
   font-size: 14px;
@@ -199,6 +204,10 @@ main p {
 .socials li {
   display: inline;
   max-width: 400px;
+}
+
+.nav-link:hover {
+  color: rgb(211, 110, 137);
 }
 
 @media (max-width: 960px) {
